@@ -1,0 +1,8 @@
+File names and their descriptions:
+
+BL_MNB.pkl: Base-learner Multinomial Naive Bayes final trained model
+BL_SVM.pkl: Base-learner Support Vector Machine final trained model
+BL_LR.pkl: Base-learner Logistic Regression final trained model
+BL_RF.pkl: Base-learner Random Forest final trained model
+ML_SVM.pkl: Meta-learner Support Vector Machine final trained model
+vectorizer.pkl: Final fitted ngram vectorizer used
