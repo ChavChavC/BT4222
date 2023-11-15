@@ -4,7 +4,7 @@ Sentimental Analysis with the Financial Market
 # Filepath Description
 
 ## CNN-LSTM-Attn/
-Contains our groups attempt attempt at utilising CNN LSTM Attn Model. Eventually we decided to proceed with focusing on Stacking method on lightweight models due to the higher accuracy score and its lower resource intensiveness.
+Contains our groups attempt at utilising CNN LSTM Attn Model. Eventually we decided to proceed with focusing on Stacking method on lightweight models due to the higher accuracy score and its lower resource intensiveness.
 
 ## experiments/
 Contains the various experiments that the team ran while trying to test out different features for the machine learning model pipeline.
