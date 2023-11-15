@@ -6,3 +6,5 @@ BL_LR.pkl: Base-learner Logistic Regression final trained model
 BL_RF.pkl: Base-learner Random Forest final trained model
 ML_SVM.pkl: Meta-learner Support Vector Machine final trained model
 vectorizer.pkl: Final fitted ngram vectorizer used
+
+Link to files: https://drive.google.com/drive/folders/1oBVU10VZz7j-9EHXPinMvhJk8bBRGxM9?usp=drive_link
